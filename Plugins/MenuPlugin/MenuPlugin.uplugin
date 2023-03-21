@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MenuPlugin",
+	"Description": "This plugin contains useful content that can be used to streamline the creation of in-game menus.",
+	"Category": "Other",
+	"CreatedBy": "Marco Manuel Almeida e Silva",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
